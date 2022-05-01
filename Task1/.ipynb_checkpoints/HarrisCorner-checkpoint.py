@@ -1,10 +1,9 @@
 """
 CLAB Task-1: Harris Corner Detector
-Your name (Your uniID): u6997593
+Your name (Your uniID):
 """
 
 import numpy as np
-import
 
 
 def conv2(img, conv_filter):
